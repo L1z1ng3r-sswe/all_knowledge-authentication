@@ -1,0 +1,5 @@
+port: 44044
+access_token_ttl: 15m
+refresh_token_ttl: 720h
+secret_key: jfajfllfjadsjfldjalfjdakslfjldjfk121
+postgres_path: host=localhost port=5432 password=asyl12345 user=postgres dbname=postgres sslmode=disable
